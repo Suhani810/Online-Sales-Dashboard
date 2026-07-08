@@ -1,8 +1,5 @@
 # 📊 Online Sales Dashboard
-> The **Online Sales Dashboard** is a Business Intelligence project developed using **Microsoft Power BI** to analyze, visualize, and interpret online sales data. The primary objective of this project is to transform raw and unstructured sales data into meaningful, interactive, and easy-to-understand dashboards that support effective business decision-making.
-The dashboard provides a comprehensive analysis of key business metrics, including **Total Sales, Profit, Quantity Sold, Customer Performance, Product Categories, Regional Sales, and Monthly Sales Trends**. By using interactive charts, graphs, KPI cards, and slicers, users can quickly explore the data, compare business performance across different regions and categories, and identify valuable sales patterns.
-To ensure accurate reporting, the data was cleaned, transformed, and prepared using **Power Query** before creating the visualizations. The dashboard enables businesses to monitor performance in real time, identify top-performing products and regions, understand customer purchasing behavior, and make data-driven decisions that improve overall business growth and operational efficiency.
-This project demonstrates practical skills in **Business Intelligence, Data Visualization, Data Cleaning, and Dashboard Development**, showcasing how Power BI can convert complex datasets into meaningful insights that help organizations optimize their sales strategies and enhance business performance.
+> A Business Intelligence project built using Power BI to transform raw online sales data into interactive dashboards and meaningful business insights.
 
 # 📖 Table of Contents
 
@@ -86,23 +83,7 @@ This project solves these challenges by creating an interactive dashboard using 
 * Power Query
 * Microsoft Excel
 
----
-
-# 📷 Dashboard Preview
-
-> **Add your dashboard screenshot here**
-
-```text
-images/dashboard.png
-```
-
-After uploading the screenshot inside an **images** folder, display it using:
-
-```markdown
-![Dashboard Preview](images/dashboard.png)
-```
-
----
+ ---
 
 # 📂 Dataset Information
 
